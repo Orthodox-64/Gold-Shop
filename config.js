@@ -1,0 +1,1 @@
+module.exports={ JWT_PASSWORD:"123456"};
